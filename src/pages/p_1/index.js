@@ -2,7 +2,7 @@ import React, { useRef, useState } from 'react'
 import { Canvas, useFrame } from 'react-three-fiber'
 import Info from '../../Info.js'
 
-export default function Experiment1() {
+export default function Page_1() {
   
   let infoData = {
     title: "Exp 1 - Basic ineraction",
