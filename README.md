@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# React-Three-Blank
+## For fast React and Three.js development
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Includes:
+- react
+- react-router
+- react-three-fiber
+- @react-three/drei
 
 ## Available Scripts
 
